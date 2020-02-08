@@ -1,7 +1,6 @@
-on modifie
+on modifie encore
 ligne 1 
-ligne2
 ligne 3
 ligne4
-ligne5 ligne 5
+ligne5
 ligne6
